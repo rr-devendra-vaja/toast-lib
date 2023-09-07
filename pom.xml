@@ -12,9 +12,9 @@
       <version>1.9.0</version>
     </dependency>
     <dependency>
-      <groupId>Colorful Toast</groupId>
+      <groupId>com.rakuten.toastlib</groupId>
       <artifactId>mywarningtoastlibrary</artifactId>
-      <version>unspecified</version>
+      <version>0.0.1</version>
     </dependency>
   </dependencies>
 </project>
